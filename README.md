@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Andrea Montemurro, from Matera (Italy). I'm attending the Master Degree in Computer Science at the University of Bari "Aldo Moro".
+Here you can see some of my work.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andmon97&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **andmon97/andmon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
