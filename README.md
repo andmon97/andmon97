@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Andrea Montemurro, from <a href="https://en.wikipedia.org/wiki/Matera">Matera</a> (Italy). I'm attending the Master Degree in Computer Science at the <a href="https://www.uniba.it/ricerca/dipartimenti/informatica/english-site/copy_of_dipartimento-di-informatica-1">University of Bari "Aldo Moro"</a>.
-Here you can see some of my work.
+Here you can see some of my works.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andmon97&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
