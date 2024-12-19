@@ -1,20 +1,43 @@
 ### Hi there 👋
-I'm Andrea Montemurro, from <a href="https://en.wikipedia.org/wiki/Matera">Matera</a> (Italy). I'm attending the Master Degree in Computer Science (Artificial Intelligence curriculum) at the <a href="https://www.uniba.it/ricerca/dipartimenti/informatica/english-site/copy_of_dipartimento-di-informatica-1">University of Bari "Aldo Moro"</a>.
-Here you can see some of my works.
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andmon97&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andmon97&layout=compact&theme=blue-green)](https://github.com/andmon97/github-readme-stats)
+I'm Andrea Montemurro, from [Matera](https://en.wikipedia.org/wiki/Matera) (Italy). I graduated with a Master's Degree in Computer Science (Artificial Intelligence curriculum) from the [University of Bari "Aldo Moro"](https://www.uniba.it/ricerca/dipartimenti/informatica/english-site/copy_of_dipartimento-di-informatica-1), achieving 110/110 cum laude (full marks and honors). I currently work as a Backend Developer at [Nitro Agility Srl](https://www.nitroagility.com/it) but aspire to transition into the Machine Learning field.
 
-<!--
-**andmon97/andmon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can see some of my works and projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+
+- 🏢 **Current Position:** Backend Developer at [Nitro Agility Srl](https://www.nitroagility.com/it).
+- 🔧 **Key Competencies:**
+  - **Backend Development:** Proficient in Java, Spring Boot, and Python.
+  - **DevOps:** Hands-on experience with Docker and Kubernetes for containerization and orchestration.
+  - **Data and Databases:** Familiar with relational databases like PostgreSQL, explored NoSQL solutions, and worked with Databricks and PySpark for big data processing.
+  - **ML & Data Science**: Experienced in frameworks and libraries like PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, NumPy, and Pandas for machine learning and data preprocessing.
+  - **Version Control:** Advanced knowledge of Git for collaborative and efficient software development.
+
+---
+
+### 🎒 Education
+
+- **Master's Degree in Computer Science (Artificial Intelligence Curriculum), 110/110 cum laude**
+
+  - *University of Bari "Aldo Moro"*
+  - Dissertation: "Ensemble-based Temporal Domain Adaptation"
+
+- **Bachelor's Degree in Computer Science, 99/110**
+
+  - *University of Bari "Aldo Moro"*
+  - Dissertation: "Tecniche di spiegazione in linguaggio naturale per food recommender system"
+
+---
+
+### 📧 Contact Me
+
+- **Email:** [andrea.montemurro97@example.com](mailto\:andrea.montemurro97@gmail.com)
+- **LinkedIn:** [Andrea Montemurro](https://www.linkedin.com/in/andrea-montemurro/)
+- **GitHub:** [andmon97](https://github.com/andmon97)
+
+---
+
+Feel free to reach out if you want to collaborate or just chat about AI, Machine Learning, or cool backend projects!
