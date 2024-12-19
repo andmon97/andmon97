@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrea Montemurro, from [Matera](https://en.wikipedia.org/wiki/Matera) (Italy). I graduated with a Master's Degree in Computer Science (Artificial Intelligence curriculum) from the [University of Bari "Aldo Moro"](https://www.uniba.it/ricerca/dipartimenti/informatica/english-site/copy_of_dipartimento-di-informatica-1), achieving 110/110 cum laude (full marks and honors). I currently work as a Backend Developer at [Nitro Agility Srl](https://www.nitroagility.com/it) but aspire to transition into the Machine Learning field.
+I'm Andrea Montemurro, from [Matera](https://en.wikipedia.org/wiki/Matera) (Italy). I graduated with a Master's Degree in Computer Science (Artificial Intelligence curriculum) from the [University of Bari "Aldo Moro"](https://www.uniba.it/ricerca/dipartimenti/informatica/english-site/copy_of_dipartimento-di-informatica-1), achieving 110/110 cum laude (full marks and honors). I currently work as a Backend Developer at [Nitro Agility Srl](https://www.nitroagility.com/it).
 
 Here you can see some of my works and projects.
 
