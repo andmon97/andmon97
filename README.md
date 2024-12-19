@@ -36,7 +36,6 @@ Here you can see some of my works and projects.
 
 - **Email:** [andrea.montemurro97@example.com](mailto\:andrea.montemurro97@gmail.com)
 - **LinkedIn:** [Andrea Montemurro](https://www.linkedin.com/in/andrea-montemurro/)
-- **GitHub:** [andmon97](https://github.com/andmon97)
 
 ---
 
